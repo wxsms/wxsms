@@ -1,7 +1,7 @@
 
 :bust_in_silhouette: &nbsp;wxsm
 
-:clipboard: &nbsp;Front-end / full-stack developer, currently working at [SeasunGame](https://www.seasungames.com/) (Zhuhai, China).
+:clipboard: &nbsp;Front-end / full-stack developer, currently working at KingSoft (Zhuhai, China).
 
 :pencil: &nbsp;My [blog](https://wxsm.space).
 
